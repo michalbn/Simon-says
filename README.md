@@ -11,3 +11,6 @@ Some behavioural specifications:
 - The sequence from Simon will be totally random.
 - The sequence from Simon will increase by 1 for every successful try.
 - If the player fails the game will stop until the user press start again.
+
+
+![Game Page(this one for is taken from basecamp - a project management service)](https://github.com/michalbn/Simon-says/blob/master/Simon-says.jpeg)
