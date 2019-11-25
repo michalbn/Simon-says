@@ -13,4 +13,4 @@ Some behavioural specifications:
 - If the player fails the game will stop until the user press start again.
 
 
-![Game Page(this one for is taken from basecamp - a project management service)](https://github.com/michalbn/Simon-says/blob/master/simon.jpeg)
+![Game Page(this one for is taken from basecamp - a project management service)](https://github.com/michalbn/Simon-says/blob/master/simon.jpeg=250x250)
