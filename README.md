@@ -13,4 +13,4 @@ Some behavioural specifications:
 - If the player fails the game will stop until the user press start again.
 
 
-<img src="https://github.com/michalbn/Simon-says/blob/master/simon.jpeg" width="200" height="350">
+<img src="https://github.com/michalbn/Simon-says/blob/master/simon.jpeg" width="300" height="450">
